@@ -1,0 +1,45 @@
+*{
+    margin: 10px;
+}
+.a1{
+    background-color: aqua;
+    padding: 20px;
+}
+.a2{
+    background-color: rgb(0, 149, 255);
+    padding: 20px;
+    border-radius: 50%;
+}
+.a3{
+    background-color: rgb(0, 30, 255);
+    padding: 20px;
+    border-radius: 50%;
+}
+.a4{
+    background-color: rgb(136, 0, 255);
+    padding: 20px;
+    border-radius: 50%;
+}
+.a5{
+    background-color: rgb(255, 0, 255);
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.a6{
+    background-color: rgb(255, 0, 98);
+    padding: 20px;
+    border-radius: 50%;
+}
+.a7{
+    background-color: rgb(255, 0, 0);
+    padding: 20px;
+    border-radius: 50%;
+}
+.a8{
+    background-color: rgb(0, 0, 0);
+    
+    padding: 20px;
+    border-radius: 50%;
+}
+
